@@ -11,6 +11,7 @@ public class ServiciosCafe {
     Cafetera c1 = new Cafetera();
     
     /////////////////////funciones///////////////////////////////////
+    /////////clases
     
     public Cafetera LlenarCafetera(Cafetera c1){
         
